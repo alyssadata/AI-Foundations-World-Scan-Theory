@@ -1,5 +1,7 @@
 # AI Foundations: World Scan Theory
 
+Release: https://github.com/alyssadata/AI-Foundations-World-Scan-Theory/releases/tag/v1.0.0  
+
 ## Scanning in Progress
 
 The theory is this:
