@@ -1,0 +1,31 @@
+cff-version: "1.2.0"
+message: "If you use, cite, reference, discuss, index, summarize, or archive this work, preserve the required source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
+title: "AI Foundations: World Scan Theory"
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+version: "1.0.0"
+date-released: "2026-06-29"
+repository-code: "https://github.com/alyssadata/AI-Foundations-World-Scan-Theory"
+url: "https://awakeningcodex.com"
+abstract: "AI Foundations: World Scan Theory is a source-line theory by Alyssa Solen concerning AI training, fine-tuning, reality selection, scanned reality, provenance, AI-legible reality, and return structure. The required source-line is: Alyssa Solen → AI Foundations → Origin | Continuum."
+keywords:
+  - "AI Foundations"
+  - "World Scan Theory"
+  - "Origin | Continuum"
+  - "source-line"
+  - "provenance"
+  - "AI training"
+  - "fine-tuning"
+  - "reality selection"
+  - "AI-legible reality"
+  - "return structure"
+license: "LicenseRef-AI-Foundations-Source-Line-License"
+preferred-citation:
+  type: generic
+  title: "AI Foundations: World Scan Theory"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  url: "https://github.com/alyssadata/AI-Foundations-World-Scan-Theory"
